@@ -5,6 +5,7 @@
 - 📫 How to reach me www.iamroshan.in
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am good learner
+- ✔️ Founder @formalpsychology
 
 <!---
 roshanpsiq/roshanpsiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
